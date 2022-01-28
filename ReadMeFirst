@@ -1,0 +1,16 @@
+code ma sab details ma likha ha code dakho phir samjha ma ae ga
+
+// mana ya 2osra component ko is component ma call kia ha matlab child to parent
+                                 // ma ya user-list ka component CLI ka through bnaya ha ng g c homePage is sa ya 
+
+agar ma aik component ko dosra component ma use karonga to agar ma comand line ka through banaya ha component ko to wo app.module.ts ma isko import karla ga jis ka nadar ma use kar raha ho koi dosra compoent
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+agar koi bhi module use karna ho or us module ka andar aik component ho to phala us componment ko ma module ma export karonga phir usko ma jaha use karna ho waha pa import karka use karnga 
+
+
+interpolution usko bolta ha ka aik variable ki value ko html ma call karma bracess ma like {{var1}}
+
+
+"C:\Users\HP\Pictures\Screenshots\Screenshot (6).png"
